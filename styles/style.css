@@ -1,0 +1,20 @@
+#navig{
+    background-color: blue;
+}
+#star{
+    display: block;
+    opacity: 0.5;
+    top: 109px;
+    left: 5%;
+    position: fixed;
+    z-index: 1;
+    width: 31vw;
+    height: 31vw;
+
+}
+.foot{
+    background-color: blue;
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+}
