@@ -6,47 +6,74 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="lib/bootstrap.min.css" rel="stylesheet">
   <link href="lib/bootstrap.min.css.map" rel="stylesheet">
-  <link href="styles/style.css" rel="stylesheet">
+  <script src="lib/jquery-3.6.0.min.js"></script>
   <script src="lib/bootstrap.bundle.min.js"></script>
-  <script src="lib/bootstrap.bundle.min.js.map"></script>
+  <link href="styles/style.css" rel="stylesheet">
+  <!-- <script src="lib/bootstrap.bundle.min.js.map"></script> -->
 </head>
 <body>
     <img src="styles/star.png" alt="star" id="star">
-<nav class="navbar navbar-expand-sm navbar-dark" id="navig">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="javascript:void(0)">Logo</a>
+    <nav class="navbar navbar-expand-sm navbar-dark" id="navig">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="javascript:void(0)">Logo</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="mynavbar">
       <ul class="navbar-nav me-auto">
         <li class="nav-item">
-          <a class="nav-link active" href="index.html">Link</a>
+          <a class="nav-link" href="index.html">Link</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="web_component/maps.html">Link</a>
+          <a class="nav-link active" href="web_component/maps.html">Link</a>
         </li>
       </ul>
       <form class="d-flex">
-        <input class="form-control me-2" type="text" placeholder="Search">
+        <input class="form-control me-2" type="text" placeholder="Search" id="findPhoto">
         <button class="btn btn-primary" type="button">Search</button>
       </form>
     </div>
   </div>
 </nav>
-
+<!-- start images -->
 <div class="container-fluid mt-3 text-center">
   <h1>Welcome to North Korea</h1>
 </div>
+<div class="customContainer" id="customCon">
+  <div class="columnImg" id="column1">
+  </div>
+  <div class="columnImg" id="column2">
+  </div>
+  <div class="columnImg" id="column3">
+  </div>
+</div>
+
+<!-- fotogaleria -->
+<div class="modala" id="mod">
+   <div class="modala-content" id="modC">
+      <div class="leftSpan"> 
+          <span class="arrows" id="left">&lt;</span> 
+      </div>
+      <div class="rightSpan" > 
+          <span class="arrows" id="right">&gt;</span> 
+          <span class="close" id="closed">&times;</span>   
+      </div>
+      <div class="bottomSpan">
+          <span class="playpause" id="bottom">&#9656;</span>
+      </div>
+   </div>
+  <div id="modalText">
+
+  </div>    
+</div>  
 
 
 
-
-
-
-<div class="text-center p-3 foot">
+<!-- <div class="text-center p-3 foot">
     © 2020 Copyright:
     <a class="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>
-  </div>
+  </div> -->
+  <script src="scripts/script1.js"></script>
+  <script src="scripts/jsonData.js"></script>
 </body>
 </html>
