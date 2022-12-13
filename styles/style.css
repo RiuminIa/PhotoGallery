@@ -1,5 +1,5 @@
 #navig{
-    background-color: blue;
+    background-color: rgb(0, 0, 0);
 }
 #star{
     display: block;
@@ -13,7 +13,7 @@
 
 }
 .foot{
-    background-color: blue;
+    background-color: rgb(0, 0, 0);
     position: absolute;
     width: 100%;
     bottom: 0px;
@@ -24,16 +24,21 @@
     flex-wrap: wrap;
     padding: 0px 150px 150px 150px;
 }
+
+
 .columnImg{
     flex: 33.3%;
     max-width: 33.3%;
     z-index: 2;
 }
 .imgRow{
-    height: auto;
-    overflow: hidden;
-    border: 5px solid #ffff;
-    z-index: 2;
+  height: auto;
+  overflow: hidden;
+  z-index: 2;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 .imgRow img{
     vertical-align: middle;
@@ -115,7 +120,7 @@
     background-color: black;
     opacity: 0.7;
   }
-  .rightSpan:hover #right, .rightSpan:hover #closed{
+  .rightSpan:hover #right, .rightSpan:hover #closed, .rightSpan:hover #closed2{
     visibility: visible;
   }
   .rightSpan:hover{
@@ -176,4 +181,50 @@
     margin-right: auto;
     border-radius: 10px;
     margin-top: 10px;
+    padding-bottom: 25px;
   }
+  #map {
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    /* The height is 400 pixels */
+    width: 90%;
+    border: solid;
+    /* The width is the width of the web page */
+  }
+  #bigMap {
+    height: 510px;
+    margin-left: auto;
+    margin-right: auto;
+
+    /* The height is 400 pixels */
+    width: 90%;
+    border: solid;
+    /* The width is the width of the web page */
+  }
+  footer {
+    position:relative;
+    bottom:0px;
+    height:40px;
+    width:100%;
+    padding:0;
+    margin: 0;
+    background-color: #000000;
+  }
+footer p{
+    position: absolute;
+    margin: 0;
+    color: blue;
+    padding: 0;
+    top: 5px;
+    margin-left: 5px;
+} 
+.trace{
+  width: 134px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#route{
+  display: block;
+}

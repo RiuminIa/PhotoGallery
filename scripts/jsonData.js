@@ -15,5 +15,10 @@ function readTextFile(file, callback) {
 readTextFile("../data/dataGaleri.json", function(text){
     data = JSON.parse(text);
     actualData=[...data];
-    makeContent();
+    try{
+        makeBigContent();
+    }
+    catch(error){
+         initBigMap();
+    }
 });

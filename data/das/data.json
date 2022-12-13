@@ -1,0 +1,121 @@
+[
+{
+    "name":"Munsu_water_park.jpg",
+    "title":"Munsu water park",
+    "description":"Munsu Water Park (Korean: 문수물놀이장) is a state run water park located in the east of Pyongyang, North Korea, which opened to the public in November 2013.The park covers an area of 15 hectares (37 acres) with indoor and outdoor activities available all year round.",
+    "date":"2022-07-25T12:02:47.386Z",
+    "coords":{
+        "lat":39.0387285358587,
+        "lng":125.78097909639129
+    },
+    "direction":"data/photos"
+},
+{
+    "name":"Munsu_water_park2.jpg",
+    "title":"Munsu water park indoor",
+    "description":"Munsu Waterpark has plenty of indoors activities which makes it a great place to visit all year round specially during the cold Korean winter.",
+    "date":"2022-07-25T12:02:47.386Z",
+    "coords":{
+        "lat":39.0387285358587,
+        "lng":125.78097909639129
+    },
+    "direction":"data/photos"
+},
+
+
+{
+    "name":"Grand_people_sstudy_house.jpg",
+    "title":"Grand people study house",
+    "description":"Located in the heart of Pyongyang right on Kim Il Sung Square opposite the Juche Tower, this monumental building was completed in 1982 in a Korean neoclassical style with traditional multi-layer gabled roofs. It is North Korea national library. Visitors can enjoy a tour of the inside, the grand lobby, reception, reading and study rooms, and finish off with the balcony which offers a wonderful view of central Pyongyang.",
+    "date":"2022-07-26T14:30:47.386Z",
+    "coords":{
+        "lat":39.02024437796248, 
+        "lng":125.74901287583484
+    },
+    "direction":"data/photos"
+},
+{
+    "name":"Grand_people_sstudy_house2.jpg",
+    "title":"Grand people study house indoor",
+    "description":"Presumably, this was some sort of room for film appreciation.",
+    "date":"2022-07-26T14:30:47.386Z",
+    "coords":{
+        "lat":39.02024437796248, 
+        "lng":125.74901287583484
+    },
+    "direction":"data/photos"
+},
+
+
+{
+    "name":"Juche_tower.jpg",
+    "title":"Juche tower",
+    "description":"Located along the banks of the Taedong River and opposite Kim Il Sung Square and the Grand People Study House in central Pyongyang, the Juche Tower is a monument dedicated to North Korea governing political ideology of Juche. The structure features a unique layered stone tower design topped with a torch which glows at night. A bronze statue of a worker, farmer and intellectual holding aloft the Korean Workers Party emblem decorates its base. Visitors can view the structure from the outside before entering to see the museum on the inside and taking an elevator to the top to enjoy a stunning view of Pyongyang.",
+    "date":"2022-07-26T16:30:47.386Z",
+    "coords":{
+        "lat":39.017758597917464,
+        "lng":125.76361692001532
+    },
+    "direction":"data/photos"
+},
+{
+    "name":"Juche_tower2.jpg",
+    "title":"Three idealised figures",
+    "description":"Associated with the tower is a 30-metre (98 ft)-high statue consisting of three idealised figures each holding a tool – a hammer (the worker); a sickle (the peasant); and a writing brush (the working intellectual) – in a classic Stalinistic-style reminiscent of the Soviet statue Worker and Kolkhoz Woman. The three tools form the emblem of the ruling Workers' Party of Korea. There are also six smaller groups of figures, each 10 metres (33 ft) high, that symbolize other aspects of Juche ideology.",
+    "date":"2022-07-26T16:30:47.386Z",
+    "coords":{
+        "lat":39.017758597917464,
+        "lng":125.76361692001532
+    },
+    "direction":"data/photos"
+},
+
+
+{
+    "name":"Kim_il_sung_square.jpg",
+    "title":"Kim il sung square",
+    "description":"Pyongyang, and the countrys main public square. It is bordered by the Taedong River, and some of Pyongyangs most iconic monuments such as the Tower of the Juche Idea and the Grand Peoples Study House, as well as the Korea Art Gallery, Central History Museum, and several important government ministries. It is where North Koreas famous parades are held.",
+    "date":"2022-07-27T8:00:47.386Z",
+    "coords":{
+        "lat":39.01951420831692,
+        "lng":125.75258455443638
+    },
+    "direction":"data/photos"
+},
+{
+    "name":"Kim_il_sung_square2.jpg",
+    "title":"Victory Day",
+    "description":"July 27th is known as Victory Day in North Korea, and this year marks the 67th anniversary of the Korean Armistice Agreement which ceased the hostilities of the Korean War.",
+    "date":"2022-07-27T8:00:47.386Z",
+    "coords":{
+        "lat":39.01951420831692,
+        "lng":125.75258455443638
+    },
+    "direction":"data/photos"
+},
+{
+    "name":"Kim_il_sung_square3.jpg",
+    "title":"Kim Jong Un",
+    "description":"Kim Jong-un (born 8 January 1982) is a North Korean politician who has been Supreme Leader of North Korea since 2011 and the leader of the Workers' Party of Korea (WPK) since 2012.",
+    "date":"2022-07-27T8:00:47.386Z",
+    "coords":{
+        "lat":39.01951420831692,
+        "lng":125.75258455443638
+    },
+    "direction":"data/photos"
+},
+
+
+{
+    "name":"Mangyongdae_schoolchildrens_palace.jpg",
+    "title":"Mangyongdae schoolchildrens palace",
+    "description":"Mangyongdae Schoolchildrens Palace is a public facility where children can engage in a range of extra-curricular activities such as music, dance, calligraphy, embroidery, and computing. Visitors can take a tour of the facilities, meet children at their lessons, and view an impressive performance.",
+    "date":"2022-07-27T15:00:47.386Z",
+    "coords":{
+        "lat":39.01407632008693,
+        "lng":125.65831498376744
+    },
+    "direction":"data/photos"
+}
+
+]

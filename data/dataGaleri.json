@@ -1,121 +1,121 @@
 [
 {
-    "name":"Munsu_water_park.jpg",
-    "title":"Munsu water park",
-    "description":"Munsu Water Park (Korean: 문수물놀이장) is a state run water park located in the east of Pyongyang, North Korea, which opened to the public in November 2013.The park covers an area of 15 hectares (37 acres) with indoor and outdoor activities available all year round.",
-    "date":"2022-07-25T12:02:47.386Z",
+    "name":"India Gate.jpg",
+    "title":"India Gate",
+    "description":"The India Gate is a war memorial located in New Delhi, along the Rajpath. It is dedicated to the 82,000 soldiers, both Indian and British, who died during the First World War and the Third Anglo-Afghan War. India Gate looks stunning at night with the fountain displaying colourful lights. The surrounding lush green lawns are a popular picnic spot. The Amar Jawan Jyoti is also located here.",
+    "date":"2018-03-12T12:02:47.386Z",
     "coords":{
-        "lat":39.0387285358587,
-        "lng":125.78097909639129
+        "lat":28.612893133440824,
+        "lng":77.22950719194831
     },
-    "direction":"data/photos"
+    "direction":"data/photos/india"
 },
 {
-    "name":"Munsu_water_park2.jpg",
-    "title":"Munsu water park indoor",
-    "description":"Munsu Waterpark has plenty of indoors activities which makes it a great place to visit all year round specially during the cold Korean winter.",
-    "date":"2022-07-25T12:02:47.386Z",
+    "name":"Lotus Temple.jpg",
+    "title":"Lotus Temple",
+    "description":"The Lotus Temple is one of the seven Baha'i House of Worship present around the world. Known for its stunning white petal lotus architecture, iy is one of the most visited establishments in the world.",
+    "date":"2018-03-13T12:02:47.386Z",
     "coords":{
-        "lat":39.0387285358587,
-        "lng":125.78097909639129
+        "lat":28.553463710742303,
+        "lng":77.25861182090948
     },
-    "direction":"data/photos"
-},
-
-
-{
-    "name":"Grand_people_sstudy_house.jpg",
-    "title":"Grand people study house",
-    "description":"Located in the heart of Pyongyang right on Kim Il Sung Square opposite the Juche Tower, this monumental building was completed in 1982 in a Korean neoclassical style with traditional multi-layer gabled roofs. It is North Korea national library. Visitors can enjoy a tour of the inside, the grand lobby, reception, reading and study rooms, and finish off with the balcony which offers a wonderful view of central Pyongyang.",
-    "date":"2022-07-26T14:30:47.386Z",
-    "coords":{
-        "lat":39.02024437796248, 
-        "lng":125.74901287583484
-    },
-    "direction":"data/photos"
-},
-{
-    "name":"Grand_people_sstudy_house2.jpg",
-    "title":"Grand people study house indoor",
-    "description":"Presumably, this was some sort of room for film appreciation.",
-    "date":"2022-07-26T14:30:47.386Z",
-    "coords":{
-        "lat":39.02024437796248, 
-        "lng":125.74901287583484
-    },
-    "direction":"data/photos"
+    "direction":"data/photos/india"
 },
 
 
 {
-    "name":"Juche_tower.jpg",
-    "title":"Juche tower",
-    "description":"Located along the banks of the Taedong River and opposite Kim Il Sung Square and the Grand People Study House in central Pyongyang, the Juche Tower is a monument dedicated to North Korea governing political ideology of Juche. The structure features a unique layered stone tower design topped with a torch which glows at night. A bronze statue of a worker, farmer and intellectual holding aloft the Korean Workers Party emblem decorates its base. Visitors can view the structure from the outside before entering to see the museum on the inside and taking an elevator to the top to enjoy a stunning view of Pyongyang.",
-    "date":"2022-07-26T16:30:47.386Z",
+    "name":"Lotus Temple inside.jpg",
+    "title":"Lotus Temple inside",
+    "description":"As you enter The Lotus Temple you encounter an enchanting entrance gate, beautiful floral gardens and scintillating pools. The pathway leading up to the temple doors is lined with lush green shrubs and a feeling of tranquillity adorns the atmosphere despite the bubbling crowd. Once inside, the mesmerising architecture will lull you into an introspective silence. You can read and chant religious texts of any faith, and musical renditions of religious texts can be sung without any inhibitions in the temple complex. The Bahai Lotus Temple is without a doubt one of the must-visit places in the capital. Not just for its marvellous architecture but also to experience a new way of meditation in a completely different, blissful ambience.",
+    "date":"2018-03-13T14:30:47.386Z",
     "coords":{
-        "lat":39.017758597917464,
-        "lng":125.76361692001532
+        "lat":28.553463710742303,
+        "lng":77.25861182090948
     },
-    "direction":"data/photos"
+    "direction":"data/photos/india"
 },
 {
-    "name":"Juche_tower2.jpg",
-    "title":"Three idealised figures",
-    "description":"Associated with the tower is a 30-metre (98 ft)-high statue consisting of three idealised figures each holding a tool – a hammer (the worker); a sickle (the peasant); and a writing brush (the working intellectual) – in a classic Stalinistic-style reminiscent of the Soviet statue Worker and Kolkhoz Woman. The three tools form the emblem of the ruling Workers' Party of Korea. There are also six smaller groups of figures, each 10 metres (33 ft) high, that symbolize other aspects of Juche ideology.",
-    "date":"2022-07-26T16:30:47.386Z",
+    "name":"Taj Mahal.jpg",
+    "title":"Taj Mahal",
+    "description":"Taj Mahal One of the seven wonders of the world, Taj Mahal is located on the banks of River Yamuna in Agra. It was built by the Mughal Emperor Shah Jahan as a memorial for his third wife, Mumtaz Mahal. It also houses the tomb of Shah Jahan himself. Constructed entirely out of white marble in the 17th century, Taj Mahal is one of the most beautiful monuments in the world. Every year visitors numbering more than the entire population of Agra pass through the magnificent gates to catch a glimpse of this breathtaking monument! A UNESCO World Heritage Site, the Taj Mahal stands for the Crown of Palaces in the Persian language. The tomb is laid out in a rectangular shape and can be approached through a massive gateway which has an arch and alcoves on either side of it. There are water channels and fountains in the entrance which makes the monument even more spectacular. The reflection of this majestic spectacle in the Yamuna is almost poetic in its perfection! Covering an area of approximately 42 Acres, the construction of the Taj Mahal began in 1631 and it took 17 years before it was completed in 1648! It was constructed using white marble obtained from Makrana in Rajasthan.",
+    "date":"2018-03-14T14:30:47.386Z",
     "coords":{
-        "lat":39.017758597917464,
-        "lng":125.76361692001532
+        "lat":27.175058935566025, 
+        "lng":78.04206384275416
     },
-    "direction":"data/photos"
-},
-
-
-{
-    "name":"Kim_il_sung_square.jpg",
-    "title":"Kim il sung square",
-    "description":"Pyongyang, and the countrys main public square. It is bordered by the Taedong River, and some of Pyongyangs most iconic monuments such as the Tower of the Juche Idea and the Grand Peoples Study House, as well as the Korea Art Gallery, Central History Museum, and several important government ministries. It is where North Koreas famous parades are held.",
-    "date":"2022-07-27T8:00:47.386Z",
-    "coords":{
-        "lat":39.01951420831692,
-        "lng":125.75258455443638
-    },
-    "direction":"data/photos"
-},
-{
-    "name":"Kim_il_sung_square2.jpg",
-    "title":"Victory Day",
-    "description":"July 27th is known as Victory Day in North Korea, and this year marks the 67th anniversary of the Korean Armistice Agreement which ceased the hostilities of the Korean War.",
-    "date":"2022-07-27T8:00:47.386Z",
-    "coords":{
-        "lat":39.01951420831692,
-        "lng":125.75258455443638
-    },
-    "direction":"data/photos"
-},
-{
-    "name":"Kim_il_sung_square3.jpg",
-    "title":"Kim Jong Un",
-    "description":"Kim Jong-un (born 8 January 1982) is a North Korean politician who has been Supreme Leader of North Korea since 2011 and the leader of the Workers' Party of Korea (WPK) since 2012.",
-    "date":"2022-07-27T8:00:47.386Z",
-    "coords":{
-        "lat":39.01951420831692,
-        "lng":125.75258455443638
-    },
-    "direction":"data/photos"
+    "direction":"data/photos/india"
 },
 
 
 {
-    "name":"Mangyongdae_schoolchildrens_palace.jpg",
-    "title":"Mangyongdae schoolchildrens palace",
-    "description":"Mangyongdae Schoolchildrens Palace is a public facility where children can engage in a range of extra-curricular activities such as music, dance, calligraphy, embroidery, and computing. Visitors can take a tour of the facilities, meet children at their lessons, and view an impressive performance.",
-    "date":"2022-07-27T15:00:47.386Z",
+    "name":"Taj Museum.jpg",
+    "title":"Taj Museum",
+    "description":"Located inside the Taj Mahal complex, the Taj Museum was established in 1982 on the western ends of the Taj Gardens. The tiny but terrific depository is a double-storeyed building with a quadrangle projection outside. Situated a little left on the main gate of the mausoleum inside the Jal Mahal, the museum provides the wonderful opportunity to have a close look at the blueprints, arts and artefacts used in the construction of the world-class monument. It also houses paintings displaying the construction and planning of the graves of the Emperor and his Emperess and the angles measured are so, that the foot of the graves always faces the spectators.",
+    "date":"2018-03-14T16:30:47.386Z",
     "coords":{
-        "lat":39.01407632008693,
-        "lng":125.65831498376744
+        "lat":27.175058935566025, 
+        "lng":78.04206384275416
     },
-    "direction":"data/photos"
+    "direction":"data/photos/india"
+},
+{
+    "name":"cow.jpg",
+    "title":"Cow",
+    "description":"It represents Mother Earth, as it is a source of goodness and its milk nourishes all creatures. Krishna, a central Hindu deity, is often portrayed in stories recounting his life as a cowherd and referring to him as the child who protects cows.",
+    "date":"2018-03-14T16:30:47.386Z",
+    "coords":{
+        "lat":27.175058935566025, 
+        "lng":78.04206384275416
+    },
+    "direction":"data/photos/india"
+},
+
+
+{
+    "name":"Sri Rangji Mandir.jpg",
+    "title":"Sri Rangji Mandir",
+    "description":"The majestic Rangji Temple in Vrindavan with a wonderful concoction of North and South Indian architecture. The large temple premises is exquisite and beautiful beyond expression. Dedicated to Lord Vishnu, the temple was built in 1851 and is said to be constructed with an amount of Rupees 45lakhs (A huge amount that time). It's sheer magnificence and grandeur that you witness here.",
+    "date":"2018-03-15T16:30:47.386Z",
+    "coords":{
+        "lat":27.58247800430865,
+        "lng":77.70265987871025
+    },
+    "direction":"data/photos/india"
+},
+{
+    "name":"Sri Rangji Mandir inside.jpg",
+    "title":"Sri Rangji Mandir inside",
+    "description":"Sri Rangji Mandir is dedicated to Lord Sri Goda-Rangamannar. Goda or Andal as she is popularly known in South India was a famous 8th century Vaishnava saint who had composed Tiruppuvai which centers around her love for her beloved Lord Krishna and his leela bhoomi Vrindavan. She pines for him, fasts for him, sings songs in his praise and wants to attain him by marrying him. Lord Ranganatha who is none other than Krishna answers her prayers by becoming her bridegroom. In SriRangji Mandir, Lord Krishna is present as the bridegroom with a walking stick in his hand as is the custom in a traditional south Indian marriage. To his right is Andal and to his left Garuda, the vahana of Lord Krishna.",
+    "date":"2018-03-15T16:30:47.386Z",
+    "coords":{
+        "lat":27.58247800430865,
+        "lng":77.70265987871025
+    },
+    "direction":"data/photos/india"
+},
+{
+    "name":"Qutub Minar.jpg",
+    "title":"Qutub Minar",
+    "description":"Qutub Minar is a minaret or a victory tower located in the Qutub complex, a UNESCO World Heritage Site in Delhi's Mehrauli area. With a height of 72.5 metres (238 ft), Qutub Minar is the second tallest monument of Delhi. The surrounding Qutub complex has lush green lawns which are popular picnic spot.",
+    "date":"2018-03-16T16:30:47.386Z",
+    "coords":{
+        "lat":28.524560567905596,
+        "lng":77.18552842607134
+    },
+    "direction":"data/photos/india"
+},
+
+
+{
+    "name":"IronPillar.jpg",
+    "title":"Iron Pillar",
+    "description":"Iron Pillar is one of the many mysterious monuments of wonder present in Delhi- the capital of India. Located within the Qutub Minar complex in Mehrauli area of New Delhi, the Iron Pillar has been posing as one of the foremost metallurgical curiosities of the world due to its prowess to not exhibit a speck of rust despite being thousands of years old. Made with 98% wrought iron and withstanding over 1600 years of withering, the pillar still stands sturdy and resists corrosion. However, a few studies in the recent times suggest that the incorrigible nature of the monument is due to a thin layer of crystalline iron hydrogen phosphate hydrate forming on the high-phosphorus-content iron, which serves to protect it from the effects of the humid climate and weather conditions.",
+    "date":"2018-03-16T16:30:47.386Z",
+    "coords":{
+        "lat":28.524560567905596,
+        "lng":77.18552842607134
+    },
+    "direction":"data/photos/india"
 }
 
 ]
