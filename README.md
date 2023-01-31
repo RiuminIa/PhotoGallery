@@ -23,7 +23,7 @@
             </li>
         </ul>
     </div>
-        <a href="https://github.com/RiuminIa/PhotoGallery/blob/main/web_component/index.html#"><h2>Map</h2></a>
+        <h2><a href="https://github.com/RiuminIa/PhotoGallery/blob/main/web_component/maps.html#">Map</a></h2>
     <div>
         On the map page, you can see the route of a site visit.<br>
         <b>p.s. to display the map you must provide a valid google <a href="https://github.com/RiuminIa/PhotoGallery/blob/main/index.html#L73">api key</a>.</b>
