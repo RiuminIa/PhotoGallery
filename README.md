@@ -5,7 +5,7 @@
     <h1>
         Photo gallery.
     </h1>
-        <a href="./index.html"><h2>Home</h2></a>
+        <a href="https://github.com/RiuminIa/PhotoGallery/blob/main/index.html#"><h2>Home</h2></a>
     <div>
         On the home page you can:
         <ul>
