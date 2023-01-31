@@ -8,7 +8,7 @@
     </h1>
     <h2><a href="https://github.com/RiuminIa/PhotoGallery/blob/main/index.html#">Gallery</a></h2>
     <div>
-        On the home page you can:
+        On the gallery page you can:
         <ul>
             <li>
                 Browse photos
