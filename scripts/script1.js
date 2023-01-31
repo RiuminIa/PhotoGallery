@@ -1,8 +1,9 @@
 
 var finder=document.getElementById("findPhoto");
+var flagGaleri=false;
 function makeBigContent(){
     makeContent("");
-    $("#modalText").append(initMap());
+   flagGaleri=true;
 }
 // for (let i=0;i<3;i++){
 //     let a=document.getElementById("column"+(i+1))
@@ -50,7 +51,7 @@ function findPhotos(value){
     });
     }
     console.log(actualData);
-    makeContent();
+    makeContent("");
 }
 
 

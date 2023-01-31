@@ -10,9 +10,15 @@ function readTextFile(file, callback) {
     }
     rawFile.send(null);
 }
-
+var xa;
+if (document.title=="India"){
+    xa="./"
+}
+else{
+    xa="../"
+}   
 //usage:
-readTextFile("../data/dataGaleri.json", function(text){
+readTextFile(xa+"data/dataGaleri.json", function(text){
     data = JSON.parse(text);
     actualData=[...data];
     try{

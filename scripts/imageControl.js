@@ -58,7 +58,9 @@ function startGalery(){
     // let x=initMap();
     let data=new Date(actualData[indexSlaid].date);
     $("#modalText").html("<h2>"+actualData[indexSlaid].title+"</h2>"+"<p>"+actualData[indexSlaid].description+"</p>"+"<time>"+data.toUTCString()+"</time>");
-    
+    if (flagGaleri){
+        $("#modalText").append(initMap());
+    }
 }
 window.addEventListener('resize', function(event) {
     if (activImage!=null){
