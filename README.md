@@ -2,10 +2,11 @@
 <head>
 </head>
 <body>
+<img src="./data/India.png" alt="India" height="500px">
     <h1>
         Photo gallery.
     </h1>
-    <h2><a href="https://github.com/RiuminIa/PhotoGallery/blob/main/index.html#">Home</a></h2>
+    <h2><a href="https://github.com/RiuminIa/PhotoGallery/blob/main/index.html#">Gallery</a></h2>
     <div>
         On the home page you can:
         <ul>
